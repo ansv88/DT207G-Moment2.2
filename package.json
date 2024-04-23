@@ -10,7 +10,7 @@
     "start": "parcel --open chrome",
     "build": "parcel build"
   },
-  "devDependencies": {
+  "dependencies": {
     "parcel": "^2.12.0"
   }
 }
