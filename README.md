@@ -1,10 +1,12 @@
 # Webbapplikation för att hantera arbetslivserfarenheter
-Det här repot innehåller kod för en enklare webbapplikation som använder en REST-webbtjänst på serversidan och AJAX fetchanrop från klientsidan. Applikationen tillåter användare att lägga till, visa och radera arbetslivserfarenheter direkt via webbgränssnittet. Informationen läggs till via ett HTML-formulär på add.html.
+Det här repot innehåller kod för en enklare webbapplikation som använder en REST-webbtjänst på serversidan och AJAX fetchanrop från klientsidan. Applikationen tillåter användare att lägga till, visa och radera arbetslivserfarenheter direkt via webbgränssnittet. Webbapplikationen är gjord med HTML, CSS och JavaScript.
 
 ## Länkar
-En liveversion av webbapplikationen finns tillgänglig på följande URL: []
+En liveversion av webbapplikationen finns tillgänglig på följande URL:
+[]
 
-En liveversion av det använda APIet finns tillgänglig på följande URL: [https://dt207g-moment2-1-iu33.onrender.com/workexperience]
+En liveversion av det använda APIet finns tillgänglig på följande URL:
+[https://dt207g-moment2-1-iu33.onrender.com/workexperience]
 
 ## Installation och Konfiguration
 Klona källkodsfilerna, kör kommando npm install för att installera nödvändiga npm-paket (Parcel har använts under utveckling).
