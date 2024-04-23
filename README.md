@@ -9,7 +9,7 @@ En liveversion av det använda APIet finns tillgänglig på följande URL:
 [https://dt207g-moment2-1-iu33.onrender.com/workexperience]
 
 ## Installation och Konfiguration
-Klona källkodsfilerna, kör kommando npm install för att installera nödvändiga npm-paket (Parcel har använts under utveckling).
+Klona källkodsfilerna, kör kommando npm install för att installera nödvändiga npm-paket.
 
 Om du vill nyttja repot för webbtjänsten på serversidan hittar du det på följande URL: [https://github.com/ansv88/DT207G-Moment2.1.git]
 
