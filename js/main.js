@@ -78,8 +78,9 @@ async function getJobs() {
             const jobElement = document.createElement("div");
             jobElement.className = "job";
             jobElement.innerHTML = `
-                    <h2>${job.companyname} (${job.location})</h2>
-                    <p>Yrkesroll: ${job.jobtitle}</p>
+                    <h2>${job.jobtitle}</h2>
+                    <p>Arbetsplats: ${job.companyname}</p>
+                    <p>Ort: ${job.location}</p>
                     <p>Startdatum: ${new Date(job.start_date).toLocaleDateString()}</p>
                     <p>Slutdatum: ${job.end_date ? new Date(job.end_date).toLocaleDateString() : 'Pågående'}</p>
                     <p>Beskrivning: ${job.description}</p>
